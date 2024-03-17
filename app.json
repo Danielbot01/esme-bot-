@@ -1,10 +1,10 @@
 {
-  "name": "Monovan - Bot",
-  "website": "wa.me/527299350963",
-  "description": "Subscribete a Monovan - Bot (≧▽≦)",
-  "repository": "wa.me/527299350963",
+  "name": "Raldx - Bot",
+  "website": "wa.me/523319645111",
+  "description": "Subscribete a Raldx - Bot (≧▽≦)",
+  "repository": "wa.me/523319645111",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/pictures/heroku-icon.jpg",
-  "success_url": "wa.me/527299350963",
+  "success_url": "wa.me/523319645111",
   "keywords": [
     "nodejs",
     "heroku",
@@ -20,9 +20,9 @@
     "whatsappbot",
     "oficial",
     "whatsapp-md",
-    "capibor",
-    "capibot-premium",
-    "capibot-premium-vip"],
+    "Raldx-bot",
+    "Raldx-bot",
+    "Raldx-bot"],
   "image": "heroku/nodejs",
   "buildpacks": [
     {
